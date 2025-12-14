@@ -1,0 +1,46 @@
+body{
+  color: white;
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  margin: 0;
+  color: #82a5ca;
+}
+
+div{
+  background-image: url('./images/space-gif.gif');
+  background-size:cover;
+  padding: 30px 0 360px 0;
+}
+
+h1{
+  font-size: 70px;
+}
+
+.button{
+  padding: 15px 25px;
+  margin: 3px;
+  border-radius: 2px;
+  background-color: white;
+  color: black;
+  border: none;
+  font-size: 16px;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 500;
+}
+
+.underline{
+border-bottom: 6px solid white;
+}
+
+.logo{
+  width: 250px;
+}
+
+.title{
+  text-shadow: 0px 0px 40px rgb(0, 0, 0);
+}
+
+h3{
+  font-weight: 800;
+  font-size: 20px;
+}
